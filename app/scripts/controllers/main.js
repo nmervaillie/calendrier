@@ -1,7 +1,17 @@
 'use strict';
 
 angular.module('calendrierApp')
-  .controller('MainCtrl', function ($scope) {
+    .controller('DetailCtrl',  function($scope, $routeParams ){
+        $scope.msg = 'ok'
+
+    } )
+
+  .controller('MainCtrl', function ($scope, $window) {
+
+    $scope.alert = function(status){
+        $window.alert(status);
+    }
+
     $scope.calendrier = {
  "kind": "calendar#events",
  "summary": "Nicolas MERVAILLIE",
