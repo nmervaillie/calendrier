@@ -315,7 +315,7 @@ angular.module('calendrierApp')
    "status": "confirmed",
    "created": "2013-12-05T08:17:07.000Z",
    "updated": "2013-12-05T08:17:07.586Z",
-   "summary": "[CRA] TNR MyDecathlon",
+   "summary": "[CRA] TNR ",
    "creator": {
     "email": "nmervaillie@gmail.com",
     "self": true
@@ -338,7 +338,7 @@ angular.module('calendrierApp')
    "status": "confirmed",
    "created": "2013-12-05T08:17:12.000Z",
    "updated": "2013-12-05T08:17:12.942Z",
-   "summary": "[CRA] TNR MyDecathlon",
+   "summary": "[CRA] TNR ",
    "creator": {
     "email": "nmervaillie@gmail.com",
     "self": true
@@ -361,7 +361,7 @@ angular.module('calendrierApp')
    "status": "confirmed",
    "created": "2013-12-05T08:17:15.000Z",
    "updated": "2013-12-05T08:17:15.974Z",
-   "summary": "[CRA] TNR MyDecathlon",
+   "summary": "[CRA] TNR ",
    "creator": {
     "email": "nmervaillie@gmail.com",
     "self": true
@@ -384,7 +384,7 @@ angular.module('calendrierApp')
    "status": "confirmed",
    "created": "2013-12-05T08:17:18.000Z",
    "updated": "2013-12-05T08:17:18.618Z",
-   "summary": "[CRA] TNR MyDecathlon",
+   "summary": "[CRA] TNR ",
    "creator": {
     "email": "nmervaillie@gmail.com",
     "self": true
