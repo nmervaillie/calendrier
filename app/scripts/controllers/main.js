@@ -2,7 +2,7 @@
 
 angular.module('calendrierApp')
     .controller('DetailCtrl',  function($scope, $routeParams ){
-        $scope.msg = 'ok'
+        $scope.itemId = $routeParams.itemId
 
     } )
 

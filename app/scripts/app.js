@@ -12,7 +12,7 @@ angular.module('calendrierApp', [
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
-        .when('/event/',{
+        .when('/event/:itemId',{
             templateUrl: 'views/event.html',
             controller: 'DetailCtrl'
         })

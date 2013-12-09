@@ -11,7 +11,7 @@
 
 <table>
     <tr ng-repeat="item in calendrier.items">
-        <td><a ng-href="event">{{item.summary}}</a></td>
+        <td><a ng-href="#/event/{{item.id}}">{{item.summary}}</a></td>
         <td ng-click="alert(item.status)">{{item.start.dateTime | date : 'dd/MM/yyyy HH:mm:ss'}}</td>
         <td>{{item.end.dateTime | date : 'dd/MM/yyyy HH:mm:ss'}}</td>
     </tr>
@@ -23,3 +23,4 @@
 <div class="footer">
     <p>♥ from the Yeoman team</p>
 </div>
+                                                                                                                                                                                             3
