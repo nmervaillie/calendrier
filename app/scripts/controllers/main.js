@@ -24,13 +24,13 @@ angular.module('calendrierApp')
    "status": "confirmed",
    "created": "2013-07-08T07:32:05.000Z",
    "updated": "2013-07-08T07:32:30.647Z",
-   "summary": "[CRA] KITS cellule agile",
+   "summary": "[CRA] KITS",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -47,13 +47,13 @@ angular.module('calendrierApp')
    "status": "confirmed",
    "created": "2013-07-08T07:32:05.000Z",
    "updated": "2013-07-08T07:32:30.647Z",
-   "summary": "[CRA] KITS cellule agile",
+   "summary": "[CRA] KITS",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -72,11 +72,11 @@ angular.module('calendrierApp')
    "updated": "2013-10-02T14:44:33.203Z",
    "summary": "[CRA] DKT - coaching comdata",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -97,11 +97,11 @@ angular.module('calendrierApp')
    "description": "For details, link here: https://crlille5.eventbrite.fr",
    "location": "Proxiad - 19 avenue le Corbusier - 59000 Lille - France",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -120,11 +120,11 @@ angular.module('calendrierApp')
    "updated": "2013-11-26T10:02:20.491Z",
    "summary": "Conges",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -143,11 +143,11 @@ angular.module('calendrierApp')
    "updated": "2013-11-26T10:02:24.457Z",
    "summary": "Conges",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -166,11 +166,11 @@ angular.module('calendrierApp')
    "updated": "2013-11-26T10:02:33.160Z",
    "summary": "Conges",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -189,11 +189,11 @@ angular.module('calendrierApp')
    "updated": "2013-11-26T10:02:37.365Z",
    "summary": "Conges",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -212,11 +212,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-02T13:29:56.138Z",
    "summary": "[CRA] DKT - coaching first",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -235,11 +235,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-02T13:29:58.727Z",
    "summary": "[CRA] DKT - coaching first",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -258,11 +258,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-02T13:30:14.084Z",
    "summary": "pot avec fred cormont",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -281,11 +281,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-02T13:30:55.464Z",
    "summary": "[CRA] DKT - coaching comdata",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -304,11 +304,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-02T13:31:05.090Z",
    "summary": "[CRA] DKT - coaching first",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -327,11 +327,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-05T08:17:07.586Z",
    "summary": "[CRA] TNR ",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -350,11 +350,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-05T08:17:12.942Z",
    "summary": "[CRA] TNR ",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -373,11 +373,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-05T08:17:15.974Z",
    "summary": "[CRA] TNR ",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -396,11 +396,11 @@ angular.module('calendrierApp')
    "updated": "2013-12-05T08:17:18.618Z",
    "summary": "[CRA] TNR ",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "start": {
@@ -421,11 +421,11 @@ angular.module('calendrierApp')
    "description": "On en avait parlé, allez on se lance.\nJe vous propose une petite séance de découverte et de coding participatif autour de cette techno. L'idée est de présenter un peu les principes, les outils, et de commencer à coder ensemble une petite application avec tout ça\n\nComme on fait ça le midi, on commande des pizzas...",
    "location": "Salle de réunion, à l'agence",
    "creator": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "self": true
    },
    "organizer": {
-    "email": "nmervaillie@gmail.com",
+    "email": "nmervaillie@toto.com",
     "displayName": "Nicolas MERVAILLIE",
     "self": true
    },
